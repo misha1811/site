@@ -1,0 +1,26 @@
+body {
+    font-family: "Rubik";
+    max-width: 1440px;
+    min-width: 260px;
+    margin: auto;
+  }
+.header {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    position: relative;
+  }
+  .header__logo {
+    display: flex;
+    align-items: center;
+    margin-right: 55px;
+  }
+  
+  .header__logo-link {
+    width: 150px;
+    height: 37px;
+    margin-right: 5px;
+  }
